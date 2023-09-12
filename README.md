@@ -1,3 +1,6 @@
+![chatbotbox](https://github.com/Mithunkj/chatbot/assets/121790267/f5ab9d2f-12d2-4b18-856f-45cc8498bfff)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
